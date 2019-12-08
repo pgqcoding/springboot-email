@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Main-Class: com.pgqcoding.email.EmailApplication
+Class-Path: spring-boot-starter-thymeleaf-2.1.11.RELEASE.jar spring-bean
+ s-5.1.12.RELEASE.jar quartz-2.3.2.jar hutool-all-5.0.7.jar spring-boot-
+ starter-logging-2.1.11.RELEASE.jar spring-boot-starter-mail-2.1.11.RELE
+ ASE.jar jackson-annotations-2.9.10.jar hibernate-validator-6.0.18.Final
+ .jar spring-boot-starter-web-2.1.11.RELEASE.jar javax.mail-1.6.2.jar sp
+ ring-context-5.1.12.RELEASE.jar jackson-module-parameter-names-2.9.10.j
+ ar spring-boot-2.1.11.RELEASE.jar spring-context-support-5.1.12.RELEASE
+ .jar spring-tx-5.1.12.RELEASE.jar spring-web-5.1.12.RELEASE.jar snakeya
+ ml-1.23.jar attoparser-2.0.5.RELEASE.jar spring-boot-starter-tomcat-2.1
+ .11.RELEASE.jar spring-webmvc-5.1.12.RELEASE.jar spring-boot-starter-js
+ on-2.1.11.RELEASE.jar jul-to-slf4j-1.7.29.jar spring-aop-5.1.12.RELEASE
+ .jar thymeleaf-spring5-3.0.11.RELEASE.jar lombok-1.18.10.jar logback-cl
+ assic-1.2.3.jar slf4j-api-1.7.29.jar javax.annotation-api-1.3.2.jar log
+ 4j-api-2.11.2.jar logback-core-1.2.3.jar thymeleaf-extras-java8time-3.0
+ .4.RELEASE.jar jackson-core-2.9.10.jar spring-boot-starter-quartz-2.1.1
+ 1.RELEASE.jar jackson-databind-2.9.10.1.jar validation-api-2.0.1.Final.
+ jar jboss-logging-3.3.3.Final.jar tomcat-embed-websocket-9.0.29.jar mch
+ ange-commons-java-0.2.15.jar tomcat-embed-core-9.0.29.jar spring-jcl-5.
+ 1.12.RELEASE.jar thymeleaf-3.0.11.RELEASE.jar spring-core-5.1.12.RELEAS
+ E.jar spring-boot-autoconfigure-2.1.11.RELEASE.jar unbescape-1.1.6.RELE
+ ASE.jar spring-boot-starter-2.1.11.RELEASE.jar jackson-datatype-jdk8-2.
+ 9.10.jar classmate-1.4.0.jar spring-expression-5.1.12.RELEASE.jar jacks
+ on-datatype-jsr310-2.9.10.jar activation-1.1.jar tomcat-embed-el-9.0.29
+ .jar log4j-to-slf4j-2.11.2.jar
+
